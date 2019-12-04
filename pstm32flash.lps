@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="5">
+      <Unit0>
+        <Filename Value="pstm32flash.ppr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="6"/>
+        <CursorPos Y="20"/>
+        <UsageCount Value="26"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="usm32flash.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="STM32FLASH_2"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="34"/>
+        <CursorPos X="29" Y="167"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="../../../Descargas/PicPas-0.9.0/devices16/PIC16F84.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="../../../Descargas/PicPas-0.9.0/Source/PicPas.lpi"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="../../../Descargas/PicPas-0.9.0/devices16/PIC12F629.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+    </Units>
+    <JumpHistory Count="16" HistoryIndex="15">
+      <Position1>
+        <Filename Value="usm32flash.pas"/>
+        <Caret Line="60" Column="70" TopLine="50"/>
+      </Position1>
+      <Position2>
+        <Filename Value="usm32flash.pas"/>
+        <Caret Line="70" Column="19" TopLine="63"/>
+      </Position2>
+      <Position3>
+        <Filename Value="usm32flash.pas"/>
+        <Caret Line="71" Column="64" TopLine="64"/>
+      </Position3>
+      <Position4>
+        <Filename Value="usm32flash.pas"/>
+        <Caret Line="72" Column="63" TopLine="65"/>
+      </Position4>
+      <Position5>
+        <Filename Value="usm32flash.pas"/>
+        <Caret Line="73" Column="20" TopLine="62"/>
+      </Position5>
+      <Position6>
+        <Filename Value="usm32flash.pas"/>
+        <Caret Line="53" Column="14" TopLine="62"/>
+      </Position6>
+      <Position7>
+        <Filename Value="usm32flash.pas"/>
+        <Caret Line="74" Column="22" TopLine="65"/>
+      </Position7>
+      <Position8>
+        <Filename Value="usm32flash.pas"/>
+        <Caret Line="76" Column="3" TopLine="64"/>
+      </Position8>
+      <Position9>
+        <Filename Value="usm32flash.pas"/>
+        <Caret Line="53" Column="14" TopLine="60"/>
+      </Position9>
+      <Position10>
+        <Filename Value="usm32flash.pas"/>
+        <Caret Line="72" Column="62" TopLine="62"/>
+      </Position10>
+      <Position11>
+        <Filename Value="usm32flash.pas"/>
+        <Caret Line="74" Column="34" TopLine="62"/>
+      </Position11>
+      <Position12>
+        <Filename Value="usm32flash.pas"/>
+        <Caret Line="73" Column="6" TopLine="67"/>
+      </Position12>
+      <Position13>
+        <Filename Value="usm32flash.pas"/>
+        <Caret Line="180" Column="55" TopLine="172"/>
+      </Position13>
+      <Position14>
+        <Filename Value="usm32flash.pas"/>
+        <Caret Line="160" Column="14" TopLine="125"/>
+      </Position14>
+      <Position15>
+        <Filename Value="usm32flash.pas"/>
+        <Caret Line="175" Column="7" TopLine="154"/>
+      </Position15>
+      <Position16>
+        <Filename Value="usm32flash.pas"/>
+        <Caret Line="176" Column="30" TopLine="172"/>
+      </Position16>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
